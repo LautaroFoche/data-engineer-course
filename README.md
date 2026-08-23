@@ -1,2 +1,2 @@
-# data-engineer-course-m1
+# data-engineer-course
 
